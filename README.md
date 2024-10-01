@@ -36,6 +36,8 @@ The **storage layer** manages **table data** and **query results**. Key aspects 
 - Data objects are only accessible via **SQL queries** and are not directly visible.
 - **Cluster Keys** can be defined for large tables to optimize performance.
 
+  ![Atchitecture Diagram](Snowflake Image.png)
+
 ### 2. Query Processing Layer:
 The **processing unit** of Snowflake.
 
