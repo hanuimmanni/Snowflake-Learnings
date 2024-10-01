@@ -38,17 +38,3 @@ Snowflake is a fully-managed cloud-based data warehouse that enables businesses 
 
 ---
 
-## Connecting to Snowflake
-
-To start working with Snowflake, you can connect via the *Snowflake Web UI* or through *CLI* or *programmatically* using languages like Python.
-
-### Web UI:
-
-1.⁠ ⁠Go to the Snowflake login page provided by your organization.
-2.⁠ ⁠Enter your credentials and select the appropriate warehouse, database, and schema.
-
-### Using Python (with Snowflake Connector):
-You can interact with Snowflake using Python with the ⁠ snowflake-connector ⁠ package.
-
-```bash
-pip install snowflake-connector-python
